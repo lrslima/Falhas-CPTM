@@ -1,0 +1,22 @@
+{
+  "name": "falhas-cptm",
+  "version": "1.0.0",
+  "description": "Site que disponibiliza informações de falhas da CPTM.",
+  "main": "falhas-cptm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrslima/Falhas-CPTM.git"
+  },
+  "author": "Leonardo e Barbara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrslima/Falhas-CPTM/issues"
+  },
+  "homepage": "https://github.com/lrslima/Falhas-CPTM#readme",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
